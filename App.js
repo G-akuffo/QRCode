@@ -2,7 +2,7 @@ import { StyleSheet, Text, View } from "react-native";
 import QRCode from "react-native-qrcode-svg";
 
 export default function App() {
-  const link = "https://example.com";
+  const link = "https://github.com/G-akuffo"; //link to my github profile
 
   return (
     <View style={styles.container}>
